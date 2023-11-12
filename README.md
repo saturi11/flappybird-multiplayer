@@ -4,7 +4,7 @@ Bem-vindo ao Jogo flappybird-multiplayer, uma emocionante experiência onde voc�
 
 
 
-# # Instalação
+## Instalação
 Clone ou baixe o repositório: git clone [repositorio](https://github.com/saturi11/flappybird-multiplayer).
 Abra o projeto no Unity:
 Abra o Unity Hub.
