@@ -16,7 +16,7 @@ Abra a cena Main.
 Inicie o jogo no Unity:
 Pressione o botão de reprodução no Unity.
 
-# # Como Jogar
+## Como Jogar
 Convite Multiplayer:
 Convide seus amigos para jogar no modo multiplayer.
 Controle de Avião:
@@ -28,10 +28,10 @@ Controles
 
 Pressione a tecla "A" para impulsionar o avião.
 
-# # Recursos
-# # # Gráficos Agradáveis:
+## Recursos
+### Gráficos Agradáveis:
 Ambientes simples e visualmente atraentes.
-# # # Trilha Sonora Empolgante:
+### Trilha Sonora Empolgante:
 Música de fundo envolvente para manter a emoção.
-# # # Modo Multiplayer Desafiador:
+### Modo Multiplayer Desafiador:
 Convide amigos para uma competição multiplayer.
