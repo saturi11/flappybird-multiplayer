@@ -2,13 +2,9 @@
  
 Bem-vindo ao Jogo flappybird-multiplayer, uma emocionante experiência onde você e seus amigos podem competir para ver quem é o melhor piloto! Controle seus aviões, desviem-se de obstáculos e tentem alcançar a pontuação mais alta em uma corrida sem fim.
 
-Índice
-Instalação
-Como Jogar
-Controles
-Recursos
-Créditos
-Instalação
+
+
+# # Instalação
 Clone ou baixe o repositório: git clone [repositorio](https://github.com/saturi11/flappybird-multiplayer).
 Abra o projeto no Unity:
 Abra o Unity Hub.
@@ -19,7 +15,8 @@ Vá para a pasta Assets/Scenes.
 Abra a cena Main.
 Inicie o jogo no Unity:
 Pressione o botão de reprodução no Unity.
-Como Jogar
+
+# # Como Jogar
 Convite Multiplayer:
 Convide seus amigos para jogar no modo multiplayer.
 Controle de Avião:
@@ -28,15 +25,13 @@ Desvie-se de obstáculos para aumentar sua pontuação.
 Competição Amigável:
 O jogador com a pontuação mais alta vence a rodada.
 Controles
-Jogador 1:
-Pressione o botão esquerdo do mouse para impulsionar o avião.
-Jogador 2:
-[Controles do jogador 2].
-...
-Recursos
-Gráficos Agradáveis:
+
+Pressione a tecla "A" para impulsionar o avião.
+
+# # Recursos
+# # # Gráficos Agradáveis:
 Ambientes simples e visualmente atraentes.
-Trilha Sonora Empolgante:
+# # # Trilha Sonora Empolgante:
 Música de fundo envolvente para manter a emoção.
-Modo Multiplayer Desafiador:
+# # # Modo Multiplayer Desafiador:
 Convide amigos para uma competição multiplayer.
