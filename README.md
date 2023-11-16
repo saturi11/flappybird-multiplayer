@@ -41,3 +41,10 @@ Ambientes simples e visualmente atraentes.
 Música de fundo envolvente para manter a emoção.
 ### Modo Multiplayer Desafiador:
 Convide amigos para uma competição multiplayer.
+
+## Exemplo
+
+
+
+https://github.com/saturi11/flappybird-multiplayer/assets/61097598/b95d236b-3b7f-42fd-bce2-ee02e0f417e7
+
