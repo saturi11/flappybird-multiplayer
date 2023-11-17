@@ -41,7 +41,7 @@ Ambientes simples e visualmente atraentes.
 Música de fundo envolvente para manter a emoção.
 ### Modo Multiplayer Desafiador:
 Convide amigos para uma competição multiplayer.
-## autores
+## Autores
 Gabriel Saturi de Souza - 22728
 
 Natan Torres Balmant - 23012
