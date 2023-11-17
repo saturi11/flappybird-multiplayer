@@ -41,7 +41,11 @@ Ambientes simples e visualmente atraentes.
 Música de fundo envolvente para manter a emoção.
 ### Modo Multiplayer Desafiador:
 Convide amigos para uma competição multiplayer.
-
+## autores
+Gabriel Saturi de Souza - 22728
+Natan Torres Balmant - 23012
+Cassiano Henrique Balatore Nakaoka - 23874
+Bruno Danny Lima - 22695
 ## Exemplo
 
 
